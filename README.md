@@ -3,7 +3,7 @@
 **Datheon Machine Learning & Data Science Internship-Task 2**
 
 ## Objective
-Predict California district median house values and compare Ordinary Least Squares (OLS), Ridge (L2), and Lasso (L1) regression using RMSE, MAE, and R².
+To predict the California district median house values and compare Ordinary Least Squares (OLS), Ridge (L2), and Lasso (L1) regression using RMSE, MAE, and R².
 
 ## Dataset
 `data/california_housing.csv` contains 20,640 rows and 10 columns from the California Housing dataset. The target is `median_house_value`. The dataset contains missing values in `total_bedrooms`, which are handled by the preprocessing pipeline.
