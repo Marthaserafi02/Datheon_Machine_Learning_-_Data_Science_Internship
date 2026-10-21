@@ -1,6 +1,6 @@
 # California Housing Price Prediction
 
-**Datheon Machine Learning & Data Science Internship — Task 1**
+**Datheon Machine Learning & Data Science Internship-Task 2**
 
 ## Objective
 Predict California district median house values and compare Ordinary Least Squares (OLS), Ridge (L2), and Lasso (L1) regression using RMSE, MAE, and R².
